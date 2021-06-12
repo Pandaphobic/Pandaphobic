@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pandaphobic
 - 👀 I’m interested in: Making beautiful silly things
-- 🌱 I’m currently learning: MERN + Ethereum / Web3
-- 💞️ I’m looking to collaborate on: Crypto asset management services
+- 🌱 I’m currently learning: Web3, Material UI + 
+- 💞️ I’m looking to collaborate on: Dapps
 - 📫 How to reach me: Email me anytime! midheavychris@gmail.com
