@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandaphobic
 - 👀 Interested in: Making beautiful, functional things.
-- 🔨 Working on: CLI Applications Using Node + Building NPM Packages
-- 🌱 Learning: Web3, Material UI + Middleware
-- 💞️ Looking to collaborate on: Dapps, Web3 and Front End
+- 🔨 Working on: Publishing Team Blog Site
+- 🌱 Learning Material UI + Content Management
+- 💞️ Looking to collaborate on: Web3 and Front End
 - 📫 Reach me: midheavychris@gmail.com
