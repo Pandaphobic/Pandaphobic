@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandaphobic
-- 👀 Interested in: Making beautiful, functional things.
-- 🔨 Working on: Publishing Team Blog Site
-- 🌱 Learning Material UI + Content Management
-- 💞️ Looking to collaborate on: Web3 and Front End
+- 👀 Interested in: Making beautiful, useful things.
+- 🔨 Working on: Building Team Blog Site
+- 🌱 Learning Material UI + Content Management + Auth
+- 💞️ Looking to collaborate on: REST APIs + Auth + BaaS Impl.
 - 📫 Reach me: midheavychris@gmail.com
