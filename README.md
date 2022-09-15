@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandaphobic
 - 👀 Interested in: Making beautiful, useful things.
-- 🔨 Working on: NFT Projects, Nextjs + MUI
+- 🔨 Working on: Electron, Nextjs + MUI
 - 🌱 Learning: WASM-rs + Web3
 - 💞️ Looking to collaborate on: Crypto Projects
 - 📫 Reach me: midheavychris@gmail.com
