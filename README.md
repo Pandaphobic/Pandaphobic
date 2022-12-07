@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandaphobic
-- 👀 Interested in: Making beautiful, useful things.
-- 🔨 Working on: Electron, Nextjs + MUI
-- 🌱 Learning: WASM-rs + Web3
-- 💞️ Looking to collaborate on: Crypto Projects
+- 👀 Interested in: Learning more about Rust and Systems Programming
+- 🔨 Stack: Typescript, Nextjs + MUI (Tauri)
+- 🌱 Learning: Rust, Typescript & Tauri
+- 💞️ Looking to collaborate on: Tauri Apps
 - 📫 Reach me: midheavychris@gmail.com
