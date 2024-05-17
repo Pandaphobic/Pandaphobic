@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandaphobic
-- 👀 Interested in: Learning more about Rust and Systems Programming
-- 🔨 Stack: Typescript, Nextjs + MUI (Tauri)
+- 👀 Interested in: Learning more about Rust
+- 🔨 Stack: NextJS + TS ShadCN Azure
 - 🌱 Learning: Rust, Typescript & Tauri
-- 💞️ Looking to collaborate on: Tauri Apps
+- 💞️ Looking to collaborate on: Web apps
 - 📫 Reach me: midheavychris@gmail.com
